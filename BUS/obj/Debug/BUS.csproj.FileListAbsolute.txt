@@ -1,0 +1,16 @@
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\bin\Debug\BUS.exe.config
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\bin\Debug\BUS.exe
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\bin\Debug\BUS.pdb
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\bin\Debug\DAO.exe
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\bin\Debug\DTO.exe
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\bin\Debug\DAO.pdb
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\bin\Debug\DAO.exe.config
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\bin\Debug\DTO.pdb
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\bin\Debug\DTO.exe.config
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\obj\Debug\BUS.exe
+C:\Users\HOA\Documents\Onedrive\Documents\HK3-K19\ltgd\App\BUS\obj\Debug\BUS.pdb
